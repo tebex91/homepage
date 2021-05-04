@@ -1,10 +1,6 @@
-.contacts li a.twitter:hover {
-    color: #1DA1F2;
-}
+.contacts li a.twitter:hover { color: #1da1f2; }
 
-.contacts li a.instagram:hover {
-    color: #833AB4;
-}
+.contacts li a.instagram:hover { color: #833ab4; }
 
 .timeline .present-experience > li::before {
     content: "✔";
@@ -15,6 +11,4 @@
     text-align: center;
 }
 
-.timeline .present-experience small{
-    font-style: italic;
-}
+.timeline .present-experience small { font-style: italic; }
