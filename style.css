@@ -1,0 +1,20 @@
+.contacts li a.twitter:hover {
+    color: #1DA1F2;
+}
+
+.contacts li a.instagram:hover {
+    color: #833AB4;
+}
+
+.timeline .present-experience > li::before {
+    content: "✔";
+    font-family: "Arial", sans-serif;
+    float: left;
+    width: 1.5em;
+    margin-left: -1.5em;
+    text-align: center;
+}
+
+.timeline .present-experience small{
+    font-style: italic;
+}
